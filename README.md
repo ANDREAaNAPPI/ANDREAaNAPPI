@@ -8,5 +8,5 @@
   - [Real Estate Data Analysis: Melbourne](https://github.com/ANDREAaNAPPI/Real-Estate-Analytics-Melbourne)
 
 
-- <b>Computer vision:</b>
+- <b>Computer Vision:</b>
   - [[CNN] Dogs and Cats](https://github.com/ANDREAaNAPPI/-CNN-Dogs-and-Cats)

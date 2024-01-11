@@ -5,7 +5,7 @@
 <h3>All projects in here are made just for fun by me on open source Datasets:</h3>
 
 - <b>Data Analysis:</b>
-  - [[ACP][LIN REG][ANN][CLUSTERING][Real Estate Data Analysis: Melbourne](https://github.com/ANDREAaNAPPI/Real-Estate-Analytics-Melbourne)
+  - [Real Estate Data Analysis: Melbourne[ACP][LIN REG][ANN][CLUSTERING]](https://github.com/ANDREAaNAPPI/Real-Estate-Analytics-Melbourne)
 
 
 - <b>Computer Vision:</b>

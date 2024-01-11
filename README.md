@@ -9,4 +9,4 @@
 
 
 - <b>Computer Vision:</b>
-  - [[CNN] Dogs and Cats](https://github.com/ANDREAaNAPPI/-CNN-Dogs-and-Cats)
+  - [Dogs and Cats[CNN]](https://github.com/ANDREAaNAPPI/-CNN-Dogs-and-Cats)

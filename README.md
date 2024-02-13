@@ -13,4 +13,4 @@
 
 
 - <b>Natural Language Processing:</b>
-  - [Mistral RAG BigFoot Sightings](https://github.com/ANDREAaNAPPI/RAG-NLP-bigfoot-sighting)
+  - [Mistral RAG BigFoot Sightings [RAG]](https://github.com/ANDREAaNAPPI/RAG-NLP-bigfoot-sighting)

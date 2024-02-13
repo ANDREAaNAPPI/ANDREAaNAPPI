@@ -10,3 +10,7 @@
 
 - <b>Computer Vision:</b>
   - [Dogs and Cats [CNN]](https://github.com/ANDREAaNAPPI/-CNN-Dogs-and-Cats)
+
+
+- <b>Natural Language Processing:</b>
+  - [Mistral RAG BigFoot Sightings](https://github.com/ANDREAaNAPPI/RAG-NLP-bigfoot-sighting)

@@ -10,6 +10,7 @@
 
 - <b>Computer Vision:</b>
   - [Dogs and Cats [CNN]](https://github.com/ANDREAaNAPPI/-CNN-Dogs-and-Cats)
+  - [Neural Style Transfer: Van Gogh - Picasso - Klimt [Style Transfer]](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt)
 
 
 - <b>Natural Language Processing:</b>

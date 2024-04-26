@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 DATA SCIENCE PROJECTS:</h2>
 
-<h3>All projects in here are made just for fun by me on open source Datasets:</h3>
+<h3>All projects in here are made by me on open source Datasets:</h3>
 
 - <b>Data Analysis:</b>
   - [Real Estate Data Analysis: Melbourne [DATA PIPELINE]](https://github.com/ANDREAaNAPPI/Real-Estate-Analytics-Melbourne)

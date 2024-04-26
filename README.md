@@ -9,7 +9,7 @@
 
 
 - <b>Computer Vision:</b>
-  - [Dogs and Cats [CNN]](https://github.com/ANDREAaNAPPI/-CNN-Dogs-and-Cats)
+  - ["One Piece" characters classification [CNN]](https://github.com/ANDREAaNAPPI/One-Piece-CNN/tree/main)
   - [Neural Style Transfer: Van Gogh - Picasso - Klimt [Style Transfer]](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt)
 
 

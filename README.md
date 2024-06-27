@@ -16,7 +16,7 @@
 - <b>Natural Language Processing:</b>
   - [Mistral RAG BigFoot Sightings [RAG]](https://github.com/ANDREAaNAPPI/RAG-NLP-bigfoot-sighting)
 
-<h2> :mag_right: PUBBLICATIONS:</h2>
+<h2> :mag_right: PUBLICATIONS:</h2>
 
 - <b>SIIAM:</b>
   - [Italian edition of the WHO Guidelines on the ethics and governance of artificial intelligence for health](https://github.com/ANDREAaNAPPI/SIIAM/blob/main/LG-AI-IT-def_1.pdf)

@@ -6,6 +6,7 @@
 
 - <b>Data Analysis:</b>
   - [Real Estate Data Analysis: Melbourne [DATA PIPELINE]](https://github.com/ANDREAaNAPPI/Real-Estate-Analytics-Melbourne)
+  - [Car Crashes Data Analysis: Cincinnati [DATA PIPELINE]](https://github.com/ANDREAaNAPPI/Car-Crashes-Analytics-Cincinnati)
 
 
 - <b>Computer Vision:</b>

@@ -11,7 +11,7 @@
 
 - <b>Computer Vision:</b>
   - ["One Piece" characters classification [CNN]](https://github.com/ANDREAaNAPPI/One-Piece-CNN/tree/main)
-  - [Neural Style Transfer: Van Gogh - Picasso - Klimt [Style Transfer]](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt)
+  - [Neural Style Transfer: Van Gogh - Picasso - Klimt [STYLE TRANSFER]](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt)
 
 
 - <b>Natural Language Processing:</b>

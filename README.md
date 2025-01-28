@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrea! </h1>
+<h1>Nice to meet you, I'm Andrea </h1>
 
 <h2>👨‍💻 DATA SCIENCE PROJECTS:</h2>
 

@@ -13,7 +13,7 @@
   - [Weapon detection and identification with YOLOv9 [OBJECT DETECTION]](https://github.com/ANDREAaNAPPI/Weapon-detector-YOLOv9)
   - ["One Piece" characters classification [CNN]](https://github.com/ANDREAaNAPPI/One-Piece-CNN/tree/main)
   - [Neural Style Transfer: Van Gogh - Picasso - Klimt [STYLE TRANSFER]](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt)
-  - [Image selection in Neural Style Transfer [STYLE TRANSFER]](https://github.com/ANDREAaNAPPI/An-Approach-to-Style-Image-Selection-in-Neural-Style-Transfer)
+  - [STyle Image selection in Neural Style Transfer [STYLE TRANSFER]](https://github.com/ANDREAaNAPPI/An-Approach-to-Style-Image-Selection-in-Neural-Style-Transfer)
 
 
 - <b>Natural Language Processing:</b>

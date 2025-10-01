@@ -20,6 +20,8 @@
   - [Mistral RAG BigFoot Sightings [RAG]](https://github.com/ANDREAaNAPPI/RAG-NLP-bigfoot-sighting)
 
 - <b>Agentic AI:</b>
+  - :construction: *Work in progress:* Talent Assistant [CrewAI]
+  - :construction: *Work in progress* Archess [CrewAI]
 
 
 <h2> :mag_right: PUBLICATIONS:</h2>

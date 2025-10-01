@@ -19,6 +19,9 @@
 - <b>Natural Language Processing:</b>
   - [Mistral RAG BigFoot Sightings [RAG]](https://github.com/ANDREAaNAPPI/RAG-NLP-bigfoot-sighting)
 
+- <b>Agentic AI:</b>
+
+
 <h2> :mag_right: PUBLICATIONS:</h2>
 
 - <b>SIIAM:</b>
